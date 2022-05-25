@@ -1,10 +1,10 @@
-## <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />Hey there! I'm Abhishek
+## <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />Hey there! I'm Abhishek Kumar
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at The LNM Institute of Information Technology.\
-🌱 &nbsp;I'm on track for learning more about Android App development, Backend Development and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about App development, Backend Development, Cloud Architecture and Blockchain Tech.\
 ✍️ &nbsp;In my free time, I do competitive programming as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at abhishekkr3003@gmail.com! I'll try to respond as soon as I can.\
