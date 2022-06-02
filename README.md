@@ -1,4 +1,4 @@
-## <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />Hey there! I'm Abhishek Kumar
+## <img width="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />Hey there! I'm Abhishek Kumar
 
 ### 👨🏻‍💻 &nbsp;About Me
 
