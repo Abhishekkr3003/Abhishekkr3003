@@ -1,4 +1,4 @@
-<h2 align="center"><img width="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />Hey there! I'm Abhishek Kumar</h2>
+<h1 align="center"><img width="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />Hey there! I'm Abhishek Kumar</h1>
 
 
 <h3 align="center">👨🏻‍💻 About Me</h3>
