@@ -46,9 +46,17 @@
 </a>
 </p>
 
+<h3 align="center">💻 Leetcode Analytics</h3>
+<p align="center">
+<a href="https://github.com/Abhishekkr3003">
+  <img height="300em" src="https://leetcard.jacoblin.cool/meKabhi?theme=dark&font=Expletus%20Sans&ext=contest"/>
+</a>
+</p>
+
 <!-- <p align="center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkr3003&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
 </p> -->
+
 
 
 <div>
