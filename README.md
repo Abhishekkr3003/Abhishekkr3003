@@ -54,7 +54,7 @@
 </p>
 
 <!-- <p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkr3003&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkr3003&theme=tokyonight_duo&hide_border=false" alt="Please refresh this page"/>
 </p> -->
 
 
