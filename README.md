@@ -4,13 +4,9 @@
 <h3 align="center">👨🏻‍💻 About Me</h3>
 
   
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at The LNM Institute of Information Technology.\
+💡 &nbsp;I like to explore new technologies, find solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about App development, Backend Development, Cloud Architecture and Blockchain Tech.\
-✍️ &nbsp;In my free time, I do competitive programming as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at abhishekkr3003@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1JeQ3z6mPPQiNamLdKlsL0jU3Oknlw05w/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+💬 &nbsp;Feel free to reach out to me for some interesting discussion over abhishekkr3003@gmail.com!
   
 
 <div align="center">
@@ -25,16 +21,23 @@
 ![GNU Bash](https://img.shields.io/badge/Bash-05122A?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&&logo=markdown)\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&&logo=MySQL&logoColor=orange)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-05122A?style=for-the-badge&&logo=redis)&nbsp;
+![Aerospike](https://img.shields.io/badge/-Aerospike-05122A?style=for-the-badge&&logo=aerospike&logoColor=red)&nbsp;
 ![Neo4j](https://img.shields.io/badge/-neo4j-05122A?style=for-the-badge&&logo=neo4j&logoColor=blue)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&&logo=Firebase&logoColor=FFCA28)\
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&&logo=flutter&logoColor=02569B)&nbsp;
+![OpenTelemetry](https://img.shields.io/badge/-opentelemetry-05122A?style=for-the-badge&&logo=opentelemetry&logoColor=yellow)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&&logo=flask)\
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&&logo=Amazon%20AWS&logoColor=yellow)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-05122A?style=for-the-badge&logo=googlecloud)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&&logo=Amazon%20AWS)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&&logo=Docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
+![Helm](https://img.shields.io/badge/Helm-05122A?style=for-the-badge&logo=helm)&nbsp;
+![Jenkins](https://img.shields.io/badge/jenkins-05122A?style=for-the-badge&logo=jenkins)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&&logo=Git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
+![Argo](https://img.shields.io/badge/Argo-05122A?style=for-the-badge&logo=argo)
 </div>
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
@@ -65,9 +68,9 @@
 <h3 align="center">☕ Connect with me</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/abhishekkr3003/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href= "https://twitter.com/me_kabhi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href= "https://twitter.com/me_kabhi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href= "https://me-kabhi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href= "mailto:abhishekkr3003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href= "https://kabhi.me"><img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/></a>
+  <a href= "https://abhishekkr3003.github.io/"><img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/></a>
 </p>
 </div>
