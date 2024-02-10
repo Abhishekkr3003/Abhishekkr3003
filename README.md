@@ -10,25 +10,18 @@
 ![Solidity](https://img.shields.io/badge/Solidity-05122A?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=red)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=for-the-badge&logo=Dart&logoColor=blue)&nbsp;
-![GNU Bash](https://img.shields.io/badge/Bash-05122A?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&&logo=markdown)\
+![GNU Bash](https://img.shields.io/badge/Bash-05122A?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&&logo=MySQL&logoColor=orange)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=for-the-badge&&logo=redis)&nbsp;
 ![Aerospike](https://img.shields.io/badge/-Aerospike-05122A?style=for-the-badge&&logo=aerospike&logoColor=red)&nbsp;
 ![Neo4j](https://img.shields.io/badge/-neo4j-05122A?style=for-the-badge&&logo=neo4j&logoColor=blue)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&&logo=Firebase&logoColor=FFCA28)\
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&&logo=flutter&logoColor=02569B)&nbsp;
-![OpenTelemetry](https://img.shields.io/badge/-opentelemetry-05122A?style=for-the-badge&&logo=opentelemetry&logoColor=yellow)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&&logo=flask)\
-![GCP](https://img.shields.io/badge/GCP-05122A?style=for-the-badge&logo=googlecloud)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&&logo=Amazon%20AWS)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&&logo=Docker&logoColor=2496ED)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
 ![Helm](https://img.shields.io/badge/Helm-05122A?style=for-the-badge&logo=helm)&nbsp;
 ![Jenkins](https://img.shields.io/badge/jenkins-05122A?style=for-the-badge&logo=jenkins)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&&logo=Git&logoColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/gitlab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
 ![Argo](https://img.shields.io/badge/Argo-05122A?style=for-the-badge&logo=argo)
 </div>
 
