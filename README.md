@@ -1,12 +1,4 @@
 <h1 align="center"><img width="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />Hey there! I'm Abhishek Kumar</h1>
-
-
-<h3 align="center">👨🏻‍💻 About Me</h3>
-
-  
-💡 &nbsp;I like to explore new technologies, find solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about App development, Backend Development, Cloud Architecture and Blockchain Tech.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion over abhishekkr3003@gmail.com!
   
 
 <div align="center">
