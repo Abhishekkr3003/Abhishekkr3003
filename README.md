@@ -52,10 +52,9 @@
 <div>
 <h3 align="center">☕ Connect with me</h3>
 <p align="center">
-  <a href= "https://www.linkedin.com/in/abhishekkr3003/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href= "https://twitter.com/me_kabhi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href= "https://www.linkedin.com/in/abhishekkr3003/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge"/></a>
   <a href= "https://me-kabhi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href= "mailto:abhishekkr3003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href= "https://abhishekkr3003.github.io/"><img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/></a>
+  <a href= "https://x.com/abhishek_kr_x"><img src="https://img.shields.io/badge/X-12100E?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 </div>
